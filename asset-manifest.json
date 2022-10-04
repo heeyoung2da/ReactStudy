@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ReactStudy/static/js/main.2efd87f5.js",
-    "index.html": "/ReactStudy/index.html",
-    "main.2efd87f5.js.map": "/ReactStudy/static/js/main.2efd87f5.js.map"
+    "main.js": "/ReactStudy/react-for-beginners/static/js/main.2efd87f5.js",
+    "index.html": "/ReactStudy/react-for-beginners/index.html",
+    "main.2efd87f5.js.map": "/ReactStudy/react-for-beginners/static/js/main.2efd87f5.js.map"
   },
   "entrypoints": [
     "static/js/main.2efd87f5.js"
