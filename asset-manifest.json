@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ReactStudy/react-for-beginners/static/js/main.eb3a7428.js",
-    "index.html": "/ReactStudy/react-for-beginners/index.html",
-    "main.eb3a7428.js.map": "/ReactStudy/react-for-beginners/static/js/main.eb3a7428.js.map"
+    "main.js": "/ReactStudy/static/js/main.908eee23.js",
+    "index.html": "/ReactStudy/index.html",
+    "main.908eee23.js.map": "/ReactStudy/static/js/main.908eee23.js.map"
   },
   "entrypoints": [
-    "static/js/main.eb3a7428.js"
+    "static/js/main.908eee23.js"
   ]
 }
